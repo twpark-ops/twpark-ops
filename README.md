@@ -1,34 +1,15 @@
-## Hey, I'm Taewoong Park
+## Taewoong Park
 
-Backend engineer building **cloud & on-premise infrastructure** in the medical imaging domain.
+I build backend systems for medical imaging — the kind where reliability isn't a feature, it's a requirement.
 
-I design distributed systems that handle real patient data — where downtime isn't an option and security isn't optional.
+Day to day, I work on cloud and on-premise infrastructure that moves patient data through distributed pipelines. I spend most of my time in **Go** and **Python**, orchestrating workflows with **Temporal**, deploying on **Kubernetes**, and making sure nothing breaks in production.
 
-### What I do
+I care about systems that are boring in the best way — predictable, observable, and hard to misuse.
 
-- Architect and ship **cloud-native platforms** with hybrid on-premise deployment
-- Build **workflow orchestration** systems with Temporal for complex distributed pipelines
-- Design APIs with **gRPC / ConnectRPC** — REST only when there's no other choice
-- Run production **Kubernetes clusters** on AWS with security-hardened containers
-- Work with **DICOM** and medical imaging standards daily
+### Things I work with
 
-### Tech stack
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat&logo=temporal&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+`Go` · `Python` · `TypeScript` · `gRPC / ConnectRPC` · `PostgreSQL` · `RabbitMQ` · `Docker` · `Kubernetes` · `AWS` · `Temporal` · `DICOM`
 
 ### Outside of work
 
-Exploring the AI open-source ecosystem — building developer tools, experimenting with LLM infrastructure, and occasionally making apps that have nothing to do with healthcare.
-
----
-
-*Production first. Always.*
+Building things in the AI/open-source space when something catches my eye.
